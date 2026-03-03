@@ -1,0 +1,22 @@
+# Model files (too large for GitHub)
+best.pt
+best/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Zip
+*.zip
+best.onnx
+.vercel/
